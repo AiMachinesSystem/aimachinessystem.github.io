@@ -1,0 +1,89 @@
+{
+  "format": "terrorprints-studio-build",
+  "version": 1,
+  "shellVersion": "e43f270c60ce585c1d255a5bbe5355717a5a04dbe18523963cb6101039b3da0d",
+  "precache": [
+    "/",
+    "/assets/app.css",
+    "/assets/app.js",
+    "/build-meta.json",
+    "/icons/icon-192.png",
+    "/icons/icon-512.png",
+    "/icons/terrorprints.svg",
+    "/index.html",
+    "/licenses/Nunito-OFL.txt",
+    "/licenses/esbuild-LICENSE.txt",
+    "/licenses/manifold-3d-LICENSE.txt",
+    "/licenses/provenance.md",
+    "/licenses/three-LICENSE.txt",
+    "/manifest.webmanifest",
+    "/sw.js"
+  ],
+  "files": [
+    {
+      "path": "assets/app.css",
+      "bytes": 20162,
+      "sha256": "215ee7fe29c73cf5c2aac5e65ada013bba358efb3c59a21ddeecd1af285d7a1d"
+    },
+    {
+      "path": "assets/app.js",
+      "bytes": 1728102,
+      "sha256": "a677a2f218cc7e76d2b4da21b8c895b71e19dba0d9bbb6fa8ec7f431d951ad79"
+    },
+    {
+      "path": "icons/icon-192.png",
+      "bytes": 4820,
+      "sha256": "b35474389aac98319c5826af46ffa527a135424a9668a00503b267c2aaf91efa"
+    },
+    {
+      "path": "icons/icon-512.png",
+      "bytes": 16583,
+      "sha256": "45cb08367087767e3bc0bb67f9e186e128864d9686ae18c662631d4989c078c8"
+    },
+    {
+      "path": "icons/terrorprints.svg",
+      "bytes": 987,
+      "sha256": "90aaad210e527467df5fa5f2c4f69043d853234ee373c662bf268fd0fbe6ff90"
+    },
+    {
+      "path": "index.html",
+      "bytes": 877,
+      "sha256": "71a464be9d92b6805060243e24f2a625ef21cbb908301ce0328adf63a1bbd8af"
+    },
+    {
+      "path": "licenses/Nunito-OFL.txt",
+      "bytes": 4385,
+      "sha256": "580df76c95a1ec5ab878ceb25bb3d85c6a076804e9c970c8c6972aea775fdf65"
+    },
+    {
+      "path": "licenses/esbuild-LICENSE.txt",
+      "bytes": 1069,
+      "sha256": "b40ec5baec7bb34fa5b1c09521fa3cd52d5fad7adafed74932a2010d3612a681"
+    },
+    {
+      "path": "licenses/manifold-3d-LICENSE.txt",
+      "bytes": 11357,
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+    },
+    {
+      "path": "licenses/provenance.md",
+      "bytes": 2777,
+      "sha256": "36a0295b87fb84ecb871e5b482b8479d74d2309dc754e5d3d5a1820bfe2b5d74"
+    },
+    {
+      "path": "licenses/three-LICENSE.txt",
+      "bytes": 1081,
+      "sha256": "8b378ebe60e2fe500158cb0ac71cb5e8b7d92953c2abcc63a0eb90499653b5bc"
+    },
+    {
+      "path": "manifest.webmanifest",
+      "bytes": 720,
+      "sha256": "319c9b133f2fb575c78bf534332ddb42778175516704ba9629ae38d639f05a7e"
+    },
+    {
+      "path": "sw.js",
+      "bytes": 3567,
+      "sha256": "e56729114576f4fe4af5a87dc58df2d2de69d6ea3e874e3127f1429f737209bc"
+    }
+  ]
+}

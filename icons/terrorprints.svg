@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Terror Prints Studio</title>
+  <desc id="desc">An original sage paw inside a cream print frame.</desc>
+  <rect width="512" height="512" rx="108" fill="#F5F0E6"/>
+  <rect x="112" y="112" width="288" height="288" rx="66" fill="none" stroke="#6E8072" stroke-width="12"/>
+  <g fill="#6E8072">
+    <ellipse cx="174" cy="228" rx="22" ry="30" transform="rotate(-24 174 228)"/>
+    <ellipse cx="226" cy="190" rx="23" ry="32" transform="rotate(-8 226 190)"/>
+    <ellipse cx="286" cy="190" rx="23" ry="32" transform="rotate(8 286 190)"/>
+    <ellipse cx="338" cy="228" rx="22" ry="30" transform="rotate(24 338 228)"/>
+    <path d="M256 240c-20 0-32 23-51 39-14 12-25 22-25 38 0 22 20 31 39 25 21-6 24-12 37-12s16 6 37 12c19 6 39-3 39-25 0-16-11-26-25-38-19-16-31-39-51-39Z"/>
+  </g>
+  <path d="M218 363h76" stroke="#26362D" stroke-width="9" stroke-linecap="round"/>
+</svg>
